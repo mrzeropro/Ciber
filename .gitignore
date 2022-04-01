@@ -1,0 +1,6 @@
+.vs/
+*.user
+Ciber/bin/
+Ciber/obj/
+CiberTests/bin/
+CiberTests/obj/
